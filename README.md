@@ -1,6 +1,6 @@
 # cnode-im
 
-> A Vue.js project
+> vue + vuex + axios + vue-router
 
 ## Build Setup
 
